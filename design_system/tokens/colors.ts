@@ -18,7 +18,7 @@ export const colors = {
     "-grey-70": "hsla(var(--base-grey) 30% / 1.0)",
     "-grey-80": "hsla(var(--base-grey) 20% / 1.0)",
     "-grey-90": "hsla(var(--base-grey) 10% / 1.0)",
-    "-grey-100": "hsla(var(--base-grey) 0% / 1.0)",
+    "-black": "hsla(var(--base-grey) 0% / 1.0)",
     /* Blue scale */
     "--base-blue": "222, 89%",
     "-blue-05": "var(--base-blue) 95% / 1.0)",
@@ -128,6 +128,7 @@ export const colors = {
     "--orange-95": "var(--base-orange) 5% / 1.0)",
     /* Yellow scale */
     "--base-yellow": "52, 94%",
+    "--yellow": "var(--base-yellow) 94% / 1.0)",
     "--yellow-05": "var(--base-yellow) 95% / 1.0)",
     "--yellow-10": "var(--base-yellow) 90% / 1.0)",
     "--yellow-15": "var(--base-yellow) 85% / 1.0)",

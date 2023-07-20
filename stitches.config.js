@@ -63,5 +63,16 @@ const {
       144: "var(--spaces-144)",
       160: "var(--spaces-160)",
       1200: "var(--spaces-1200)"
+    },
+    colors: {
+      "sway-black": "hsl(52, 94%, 2%)",
+      "sway-yellow": "var(----sway-yellow)",
+      "sway-green": "var(--green-70)",
+      "sway-medium-green": "var(--green-80)",
+      "sway-dark-green": "var(--green-90)",
+      "sway-light-green": "var(--green-10)",
+      "sway-orange": "var(--orange-50)",
+      "sway-dark-orange": "var(--orange-60)",
+      "sway-gray": "var(--grey-90)"
     }
   });
